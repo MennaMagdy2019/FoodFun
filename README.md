@@ -1,8 +1,7 @@
 # FoodFun :hamburger::fries:
-## Preview hosting on GitHub: https://el-khamisi.github.io/FoodFun/
-
+## Preview hosting on GitHub: https://mennamagdy2019.github.io/FoodFun/
 ![header](assets/readme/repoheader.png)
-## I appreciate the great contribution [@MennaMagdy2019](https://github.com/MennaMagdy2019) :smile::handshake: has made to this repository
+## I appreciate the great contribution [@El-khamisi](https://github.com/El-khamisi) :smile::handshake: has made to this repository
 
 ## Template website for a restaurant to provide its services for its various customers 
 
